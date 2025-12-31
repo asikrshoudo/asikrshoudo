@@ -3,56 +3,51 @@
 
   <br />
 
-  <h2>🎓 About Me</h2>
+  <h2>About Me</h2>
   <p>
     CST student at <b>MAWTS Institute of Technology</b>.<br>
     Linux enthusiast building modular CLI tools and apps.
   </p>
 
   <p>
-    🌱 <b>Learning:</b> Android Dev, Python, C, CS50<br>
-    🐧 <b>Tools:</b> Fedora Linux, Termux, Notion
+    <b>Learning:</b> Android Dev, Python, C, CS50<br>
+    <b>Tools:</b> Fedora Linux, Termux, Notion
   </p>
 
   <br />
 
-  <h2>👨‍💻 Languages</h2>
+  <h3>─── Contribution Journey ───</h3>
+  <img src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
+
+  <br />
+
+  <h3>─── Languages ───</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=c,java,python,html,css&theme=dark" />
   </p>
 
-  <h2>🛠 Tools & Environment</h2>
+  <h3>─── Environment ───</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=linux,notion,git,github,vscode&theme=dark" />
   </p>
 
   <br />
 
-  <h2>📊 GitHub Analytics</h2>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&background=00000000" alt="GitHub Streak" />
+  <h3>─── GitHub Analytics ───</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&background=00000000" alt="Streak" />
   
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF" alt="Stats" />
 
   <br />
-  <br />
 
-  <h2>🌐 Connect</h2>
+  <h3>─── Connect ───</h3>
   <p>
-    <a href="https://www.instagram.com/_shoudo_/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-    </a>
-    <a href="https://discord.gg/em5wR9dQ" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord" width="45" />
-    </a>
-    <a href="https://x.com/im_shoudo" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" width="45" />
-    </a>
-    <a href="mailto:shoudoashikurshek@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-    </a>
+    <a href="https://www.instagram.com/_shoudo_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+    <a href="https://discord.gg/em5wR9dQ" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+    <a href="https://x.com/im_shoudo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+    <a href="mailto:shoudoashikurshek@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   </p>
 
   <br />
