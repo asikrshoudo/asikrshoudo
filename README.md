@@ -5,25 +5,25 @@
 
   <h3>🎓 About Me</h3>
   <p>
-    I'm a <b>CST Student</b> at <b>MAWTS Institute of Technology</b>. I am a Linux enthusiast building robust CLI tools and modular apps. Currently focusing on Android Development and CS50.
+    CST student at <b>MAWTS Institute of Technology</b>.<br>
+    Linux enthusiast building modular CLI tools and apps.
   </p>
-  
+
   <p>
-    🚀 <b>Active Project:</b> <a href="https://github.com/asikrshoudo/speedCLI">speedCLI</a> (Modular Internet Speed Test)<br>
-    🌱 <b>Learning:</b> Android Architecture, Advanced Firebase, CS50<br>
-    🐧 <b>Daily Drivers:</b> Fedora Linux, Termux, Notion
+    🌱 <b>Learning:</b> Android Dev, Python, C, CS50<br>
+    🐧 <b>Tools:</b> Fedora Linux, Termux, Notion
   </p>
 
   <br />
 
-  <h3>👨‍💻 Programming Languages</h3>
+  <h3>👨‍💻 Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,html,css&theme=dark" />
   </p>
 
-  <h3>🛠 Tools, OS & Frameworks</h3>
+  <h3>🛠 Tools & Environment</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=linux,fedora,androidstudio,firebase,git,github,vscode,notion,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,fedora,android,notion,git,github,vscode&theme=dark" />
   </p>
 
   <br />
@@ -53,8 +53,6 @@
       <img src="https://skillicons.dev/icons?i=gmail" width="40" />
     </a>
   </p>
-
-  <br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
 </div>
