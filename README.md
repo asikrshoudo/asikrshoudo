@@ -5,11 +5,11 @@
   <h1>Hello, I'm Shoudo 👋</h1>
   
   <p>
-    <b>🎓 CST Student</b><br>
-    🌱 Learning and building modular tools with <b>Python & C</b>.<br>
-    🐧 Currently exploring <b>Linux & Windows</b> & <b>Android Development</b>.<br>
-    🚀 Pushing small projects to learn and grow every day.
-  </p>
+  🎓 CST student <br>
+  🐧 Fedora Linux daily <br>
+  📱 Termux for fun coding <br>
+  💻 Learning & building
+</p>
 
   <br />
 
