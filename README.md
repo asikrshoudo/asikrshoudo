@@ -65,3 +65,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
 </div>
 
+<div align="center">
+  <br />
+  <h3> My Discord Activity </h3>
+  <a href="https://discord.com/users/976820543590383678">
+    <img src="https://lanyard.websandbox.xyz/api/976820543590383678?bg=true&animated=true" alt="Discord Activity" />
+  </a>
+  <br />
+</div>
+
+
