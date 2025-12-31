@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header" />
   
-  <h1>Hello, I'm Ashikur Sheikh Shoudo 👋</h1>
+  <h1>Hello, I'm Shoudo 👋</h1>
   
   <p>
     <b>🎓 CST Student</b><br>
