@@ -18,12 +18,12 @@
 
   <h3>👨‍💻 Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,java ,python,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css&theme=dark" />
   </p>
 
   <h3>🛠 Tools & Environment</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=linux ,notion,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,notion,git,github,vscode&theme=dark" />
   </p>
 
   <br />
