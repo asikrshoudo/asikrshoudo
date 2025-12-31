@@ -7,12 +7,13 @@
   <div align="left">
     <h3>🎓 About Me</h3>
     <p>
-      I'm a <b>Computer Science & Technology (CST)</b> student at <b>MAWTS Institute of Technology</b> and a proud <b>Ex-SPSCIAN</b>. I build robust, modular apps with strong logic. Power user of <b>Termux</b> for mobile dev, <b>Fedora Linux</b> for desktop, <b>Notion</b> for organization, and <b>eDEX-UI</b> for immersive terminals.
+      I'm a <b>Computer Science & Technology (CST)</b> student at <b>MAWTS Institute of Technology</b> and a proud <b>Ex-SPSCIAN</b>. I build robust, modular apps with strong logic. Power user of <b>Termux</b> for mobile dev, <b>Fedora Linux</b> for desktop, <b>Notion</b> for organization, and <b>eDEX-UI</b> for immersive terminals—crafting efficient CLI tools everywhere. Passionate about watching <b>CS50</b> videos to sharpen skills.
     </p>
     <ul>
       <li>🚀 <b>Active Project:</b> <a href="https://github.com/asikrshoudo/speedCLI">speedCLI</a> — Modular CLI for internet speed testing.</li>
-      <li>🌱 <b>Currently Learning:</b> Advanced Firebase, Android Studio, and CS50 Harvard course.</li>
+      <li>🌱 <b>Currently Learning:</b> Advanced Firebase, Android Studio architectures, and CS50 Harvard course.</li>
       <li>🐧 <b>Daily Drivers:</b> Fedora Linux, Termux, Notion, and eDEX-UI.</li>
+      <li>💡 <b>Interests:</b> Linux tweaking, Python scripting, and open-source contributions.</li>
     </ul>
   </div>
 
@@ -28,7 +29,7 @@
   <h3 align="center">💻 Tech Stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=fedora,py,firebase,androidstudio,vscode,linux,git,github,html,css,js,bootstrap,bash,notion,android&perline=8&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linux,c,python,firebase,androidstudio,vscode,git,github,html,css,javascript,notion,android&perline=8&theme=dark" />
     </a>
   </p>
 
@@ -54,4 +55,3 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer" />
   </p>
 </div>
-
