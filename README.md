@@ -13,7 +13,7 @@
 
   <br />
 
-  <h3>─── 📬 Connect with Me ───</h3>
+  <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
@@ -33,18 +33,18 @@
   <br />
   <br />
 
-  <h3>─── 💻 Languages ───</h3>
+  <h3> Languages </h3>
   <img src="https://skillicons.dev/icons?i=c,python,java,html,css" />
   
   <br />
   
-  <h3>─── 🛠 Tools & OS ───</h3>
+  <h3> Tools & OS </h3>
   <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,androidstudio" />
 
   <br />
   <br />
 
-  <h3>─── 🐍 GitHub Contribution Snake ───</h3>
+  <h3> GitHub Contribution Snake </h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg">
@@ -54,7 +54,7 @@
   <br />
   <br />
 
-  <h3>─── 📊 GitHub Stats ───</h3>
+  <h3> Stats </h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="180" />
