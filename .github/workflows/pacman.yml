@@ -2,10 +2,7 @@ name: Generate Pacman Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *" 
-  
-  # Allows to manually run the job at any time
   workflow_dispatch: 
 
 permissions:
@@ -15,7 +12,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Generates the snake/pacman animation
       - uses: Platane/snk@v3
         with:
           github_user_name: asikrshoudo
@@ -25,7 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the generated files to the repository
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
