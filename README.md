@@ -17,7 +17,7 @@
   <br />
 
   <h3>─── Contribution Journey ───</h3>
-  <img src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
+  <img src="assets/github-pacman.svg" alt="Pacman Animation" />
 
   <br />
 
@@ -34,11 +34,9 @@
   <br />
 
   <h3>─── GitHub Analytics ───</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&background=00000000" alt="Streak" />
-  
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF" alt="Stats" />
 
   <br />
 
@@ -53,3 +51,4 @@
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
 </div>
+
