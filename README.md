@@ -1,54 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=shoudo@fedora:~$+init_profile.sh;shoudo@termux:~$+python3+main.py;Hello,+I'm+Ashikur+Sheikh+Shoudo;CST+Student+%26+Linux+Enthusiast" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D4FF&height=120&section=header&text=Ashikur%20Sheikh%20Shoudo&fontSize=50&animation=fadeIn" />
 
   <br />
 
-  <h2>About Me</h2>
-  <p>
-    CST student at <b>MAWTS Institute of Technology</b>.<br>
-    Linux enthusiast building modular CLI tools and apps.
-  </p>
-
-  <p>
-    <b>Learning:</b> Android Dev, Python, C, CS50<br>
-    <b>Tools:</b> Fedora Linux, Termux, Notion
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=System.init();shoudo@linux:~$+python3+main.py;Creative+Software+Developer;Linux+and+CLI+Enthusiast" alt="Typing SVG" />
 
   <br />
 
-  <h3>─── Contribution Journey ───</h3>
-  <img src="assets/github-pacman.svg" alt="Pacman Animation" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>⚡ Status Report</h3>
+        <ul>
+          <li>🎓 CST Student at <b>MAWTS</b></li>
+          <li>🐧 Deep diving into <b>Linux Kernel</b></li>
+          <li>📱 Exploring <b>Android Development</b></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Focus Zone</h3>
+        <ul>
+          <li>🛠️ Building Modular CLI Tools</li>
+          <li>🐍 Advanced Python & C</li>
+          <li>📚 Currently taking CS50</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
   <br />
 
-  <h3>─── Languages ───</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css&theme=dark" />
-  </p>
-
-  <h3>─── Environment ───</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=linux,notion,git,github,vscode&theme=dark" />
-  </p>
+  <h3>─── 🛠 Tech Stack ───</h3>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,linux,notion,git,github,vscode&theme=dark" />
 
   <br />
-
-  <h3>─── GitHub Analytics ───</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&background=00000000" alt="Streak" />
-
   <br />
 
-  <h3>─── Connect ───</h3>
-  <p>
-    <a href="https://www.instagram.com/_shoudo_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-    <a href="https://discord.gg/em5wR9dQ" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-    <a href="https://x.com/im_shoudo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-    <a href="mailto:shoudoashikurshek@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <h3>─── 📊 GitHub Insights ───</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=ffffff" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=tokyonight&hide_border=true&background=00000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF" width="400" />
   </p>
 
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
+
+  <h3>─── 🌐 Digital Presence ───</h3>
+  <a href="https://www.instagram.com/_shoudo_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://x.com/im_shoudo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:shoudoashikurshek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/em5wR9dQ"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+  <br />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
 </div>
 
