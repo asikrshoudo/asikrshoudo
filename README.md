@@ -4,11 +4,8 @@
   
   <h1>Hello, I'm Shoudo 👋</h1>
   
-  <p>
-  🎓 CST student <br>
-  🐧 Fedora Linux daily <br>
-  📱 Termux for fun coding <br>
-  💻 Learning & building
+<p>
+  CST Student • ex-SPSCian
 </p>
 
   <br />
