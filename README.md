@@ -11,24 +11,12 @@
   <br />
 
   <h3> Languages </h3>
-  <!-- Simple Icons দিয়ে সব ভাষা -->
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="40" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css" />
   
   <br />
   
   <h3> Tools & OS </h3>
-  <!-- Simple Icons দিয়ে সব টুলস -->
-  <img src="https://cdn.simpleicons.org/linux" width="40" />
-  <img src="https://cdn.simpleicons.org/windows" width="40" />
-  <img src="https://cdn.simpleicons.org/git" width="40" />
-  <img src="https://cdn.simpleicons.org/github" width="40" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" />
-  <img src="https://cdn.simpleicons.org/androidstudio" width="40" />
-  <img src="https://cdn.simpleicons.org/ngrok" width="40" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,androidstudio" />
 
   <br />
   <br />
@@ -52,25 +40,24 @@
   <br />
 
   <h3> Connect with Me </h3>
-  <!-- Simple Icons দিয়ে সোশ্যাল মিডিয়া -->
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
   &nbsp;
   <a href="https://x.com/im_shoudo" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
   &nbsp;
   <a href="mailto:shoudoashikurshek@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;
   <a href="https://discord.gg/em5wR9dQ" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord" width="40" />
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/asikrshoudo?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 
   <br />
