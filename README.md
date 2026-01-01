@@ -40,11 +40,13 @@
   <br />
 
   <!-- Spotify Section -->
-  <h3>🎵 Now Playing</h3>
+  <h3>🎵 Live Spotify</h3>
 
-<!-- This works -->
+<!-- Updates every 30 seconds -->
 <a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=novatorem" alt="Now Playing" width="400" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=novatorem" 
+       onload="setTimeout(()=>this.src=this.src.split('?')[0]+'?t='+Date.now(), 30000)" 
+       alt="Now Playing" width="400" />
 </a>
   
   <br />
