@@ -2,9 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header" />
   
-  <!-- হিটস.সিইউফার্ম.কম বেজড ভিজিটর কাউন্টার -->
+
   <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasikrshoudo&count_bg=%2300D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/asikrshoudo&count_bg=%2300D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
   </p>
   
   <h1>Hello, I'm Shoudo 👋</h1>
@@ -12,7 +12,6 @@
 <p>
   CST Student • ex-SPSCian • foodie😋
 </p>
-
 
   <br />
 
@@ -78,7 +77,6 @@
   &nbsp;
   <!-- LeetCode Icon -->
   <a href="https://leetcode.com/u/shoudo/" target="_blank">
-    <!-- Option 1: Simple Icons (More reliable) -->
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" />
   </a>
 
