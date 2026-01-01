@@ -40,11 +40,11 @@
   <br />
 
   <!-- Spotify Section -->
-  <h3>🎵 Now Playing</h3>
-  
-  <a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme" target="_blank">
-    <img src="https://spotify-readme-vercel.vercel.app/api/spotify?uid=31zk3msfxoahwxfkibinug4b5fme" alt="Spotify Now Playing" width="400" />
-  </a>
+  <h3>🎵 Spotify Activity</h3>
+
+<a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme">
+  <img src="https://spotify-github-readme.vercel.app/api/spotify?uid=31zk3msfxoahwxfkibinug4b5fme" alt="Now Playing" />
+</a>
   
   <br />
   <br />
