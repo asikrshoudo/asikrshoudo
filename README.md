@@ -2,6 +2,11 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header" />
   
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=asikrshoudo&color=00D4FF&style=flat-square" alt="Profile views" />
+  </p>
+  
   <h1>Hello, I'm Shoudo 👋</h1>
   
 <p>
@@ -39,6 +44,15 @@
 
   <br />
 
+  <!-- LeetCode Stats Card -->
+  <h3> LeetCode Stats </h3>
+  <p>
+    <a href="https://leetcode.com/u/shoudo/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/shoudo?theme=dark&font=Abel&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" height="200" />
+    </a>
+  </p>
+
+  <br />
 
   <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
@@ -59,6 +73,16 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/asikrshoudo?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;
+  <!-- LeetCode Icon -->
+  <a href="https://leetcode.com/u/shoudo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+  </a>
+  &nbsp;
+  <!-- LeetCode Badge (Alternative) -->
+  <a href="https://leetcode.com/u/shoudo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 
   <br />
