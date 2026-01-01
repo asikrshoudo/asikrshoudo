@@ -10,33 +10,13 @@
 
   <br />
 
-  <h3> Connect with Me </h3>
-  <a href="https://www.instagram.com/_shoudo_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/im_shoudo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:shoudoashikurshek@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/em5wR9dQ" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" />
-  </a>
-
-  <br />
-  <br />
-
   <h3> Languages </h3>
   <img src="https://skillicons.dev/icons?i=c,python,java,html,css" />
   
   <br />
   
   <h3> Tools & OS </h3>
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,androidstudio,ngrok" />
 
   <br />
   <br />
@@ -57,6 +37,30 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="180" />
   </p>
 
+  <br />
+
+  <h3> Connect with Me </h3>
+  <a href="https://www.instagram.com/_shoudo_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/im_shoudo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:shoudoashikurshek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/em5wR9dQ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asikrshoudo?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+
+  <br />
   <br />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
