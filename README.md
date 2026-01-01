@@ -39,27 +39,6 @@
 
   <br />
 
-  <!-- Spotify Section -->
-  <h3>🎵 Spotify Live • @shoudo</h3>
-  
-  <div style="display: flex; justify-content: center;">
-    <a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme" target="_blank">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=novatorem&show_avatar=true&bar_color_cover=true&background_color=0d1117&border_color=00d4ff" 
-           alt="shoudo's Spotify Now Playing" 
-           width="540"
-           style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0, 212, 255, 0.4); border: 2px solid #00D4FF;" />
-    </a>
-  </div>
-  
-  <p style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/👤_shoudo-1DB954?style=flat-square&logo=spotify" />
-    <img src="https://img.shields.io/badge/🎧_Now_Playing-00D4FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/🔄_Live_Updates-1DB954?style=flat-square" />
-  </p>
-  
-  <p><small><i>Click the card to follow me on Spotify for music recommendations! 🎶</i></small></p>
-  
-  <br />
 
   <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
