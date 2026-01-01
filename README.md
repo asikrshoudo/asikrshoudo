@@ -77,12 +77,8 @@
   &nbsp;
   <!-- LeetCode Icon -->
   <a href="https://leetcode.com/u/shoudo/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
-  </a>
-  &nbsp;
-  <!-- LeetCode Badge (Alternative) -->
-  <a href="https://leetcode.com/u/shoudo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <!-- Option 1: Simple Icons (More reliable) -->
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" />
   </a>
 
   <br />
