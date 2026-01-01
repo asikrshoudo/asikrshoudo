@@ -39,14 +39,14 @@
 
   <br />
 
-  <!-- Spotify Section -->
-  <h3>🎵 Live Spotify</h3>
+  <!-- Replace your Spotify section with this: -->
 
-<!-- Updates every 30 seconds -->
-<a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=novatorem" 
-       onload="setTimeout(()=>this.src=this.src.split('?')[0]+'?t='+Date.now(), 30000)" 
-       alt="Now Playing" width="400" />
+<h3>Music</h3>
+
+<a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <br />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zk3msfxoahwxfkibinug4b5fme&count=1&width=350" />
 </a>
   
   <br />
