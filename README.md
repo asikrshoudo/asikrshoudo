@@ -40,10 +40,11 @@
   <br />
 
   <!-- Spotify Section -->
-  <h3>🎵 Spotify Activity</h3>
+  <h3>🎵 Now Playing</h3>
 
+<!-- This works -->
 <a href="https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme">
-  <img src="https://spotify-github-readme.vercel.app/api/spotify?uid=31zk3msfxoahwxfkibinug4b5fme" alt="Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=novatorem" alt="Now Playing" width="400" />
 </a>
   
   <br />
