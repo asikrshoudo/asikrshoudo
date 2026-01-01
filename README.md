@@ -61,6 +61,10 @@
   </a>
 
   <br />
+
+<h3>🎵 Now Playing</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zk3msfxoahwxfkibinug4b5fme&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=00d4ff&bar_color_cover=false)](https://open.spotify.com/user/31zk3msfxoahwxfkibinug4b5fme)
   <br />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
