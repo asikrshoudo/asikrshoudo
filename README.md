@@ -59,18 +59,18 @@
 
 <br />
 
-<h3>─── 🎮 Discord Activity ───</h3>
+<h3 align="center">Discord Activity</h3>
 <a href="https://discord.com/users/976820543590383678" target="_blank">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://lanyard.cnrad.dev/api/976820543590383678?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true" />
+      srcset="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=0d1117&hideBadges=true&theme=dark&idleMessage=Enjoying%20life..." />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://lanyard.cnrad.dev/api/976820543590383678?theme=light&bg=ffffff&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true" />
+      srcset="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=ffffff&hideBadges=true&idleMessage=Enjoying%20life..." />
     <img
       alt="Discord Status"
-      src="https://lanyard.cnrad.dev/api/976820543590383678?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true"
+      src="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=0d1117&hideBadges=true&theme=dark&idleMessage=Enjoying%20life..."
       height="150" />
   </picture>
 </a>
