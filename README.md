@@ -57,11 +57,8 @@
   <br />
 
 
-<!-- With Skill Icons -->
 <a href="https://discord.com/users/976820543590383678" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="40" />
-  <br/>
-  <span style="color: #00D4FF;">shoudo</span>
+  <img src="https://discordprofile.com/api/profile/976820543590383678/theme/dark/badge/true/activity/true/status/true" height="150" />
 </a>
 </div>
 
