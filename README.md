@@ -60,7 +60,7 @@
 <br />
 <h3 align="center">Discord Activity</h3>
 <a href="https://discord.com/users/976820543590383678" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/976820543590383678?hideDisplayName=true&hideStatus=true&hideTimestamp=true&hideBadges=true&bg=0d1117&borderRadius=10px&animated=true&idleMessage=" height="150" alt="Discord Status" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/976820543590383678?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideDiscrim=true&hideStatus=true&idleMessage=" height="180" alt="Discord Status" />
 </a>
 
   <h3> Connect with Me </h3>
