@@ -37,6 +37,13 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
   </picture>
 
+  <!-- STATS -->
+  <h2>Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="180" alt="GitHub streak stats" />
+  </p>
+
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
   <!-- TECH STACK -->
