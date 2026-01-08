@@ -30,18 +30,22 @@
 <br>
 
 <!-- 📊 GITHUB STATISTICS -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-size: 28px; margin-bottom: 20px;">
-    📊 GitHub Analytics
-  </h2>
-  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&include_all_commits=true" height="170" alt="GitHub Stats" />
-    
-    <!-- GitHub Streak -->
-    <img src="https://streak-stats.demolab.com?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff" height="170" alt="GitHub Streak" />
-  </div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg">
+  </picture>
+
+  <br />
+  <br />
+
+  <h3> Stats </h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="180" />
+  </p>
+
+  <br />
   
   <!-- Top Languages -->
   <div style="background: #0d1117; padding: 15px; border-radius: 10px; border: 2px solid #00D4FF; max-width: 500px; margin: 0 auto;">
