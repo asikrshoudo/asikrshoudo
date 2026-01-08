@@ -57,10 +57,12 @@
   <br />
 
 
-<h3>Discord Profile</h3>
+<br />
+<h3 align="center">Discord Activity</h3>
 <a href="https://discord.com/users/976820543590383678" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-4/976820543590383678.png" alt="Discord Status" height="200" />
+  <img src="https://lanyard.cnrad.dev/api/976820543590383678?hideDisplayName=true&hideStatus=true&hideTimestamp=true&hideBadges=true&bg=0d1117&borderRadius=10px&animated=true&idleMessage=" height="150" alt="Discord Status" />
 </a>
+
   <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
