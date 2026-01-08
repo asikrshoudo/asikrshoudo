@@ -56,6 +56,25 @@
 
   <br />
 
+
+<br />
+
+<h3>─── 🎮 Discord Activity ───</h3>
+<a href="https://discord.com/users/976820543590383678" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://lanyard.cnrad.dev/api/976820543590383678?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://lanyard.cnrad.dev/api/976820543590383678?theme=light&bg=ffffff&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true" />
+    <img
+      alt="Discord Status"
+      src="https://lanyard.cnrad.dev/api/976820543590383678?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&idleMessage=Coding%20something%20cool...&animated=true"
+      height="150" />
+  </picture>
+</a>
+
   <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
