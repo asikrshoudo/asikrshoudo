@@ -87,36 +87,37 @@
 <hr style="border: 1px solid #00D4FF; width: 80%; margin: 30px auto;">
 
 <!-- 🌐 CONNECT SECTION -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-size: 28px; margin-bottom: 20px;">
-    🌐 Connect with Me
-  </h2>
+<h3> Connect with Me </h3>
+  <a href="https://www.instagram.com/_shoudo_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/im_shoudo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:shoudoashikurshek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/em5wR9dQ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asikrshoudo?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;
+  <!-- LeetCode Icon -->
+  <a href="https://leetcode.com/u/shoudo/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" />
+  </a>
+
+  <br />
+  <br />
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-    <a href="https://www.instagram.com/_shoudo_/" target="_blank" title="Instagram">
-      <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
-    </a>
-    
-    <a href="https://x.com/im_shoudo" target="_blank" title="Twitter">
-      <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
-    </a>
-    
-    <a href="mailto:shoudoashikurshek@gmail.com" title="Email">
-      <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
-    </a>
-    
-    <a href="https://discord.com/users/976820543590383678" target="_blank" title="Discord">
-      <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" />
-    </a>
-    
-    <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" title="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
-    </a>
-    
-    <a href="https://leetcode.com/u/shoudo/" target="_blank" title="LeetCode">
-      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
-    </a>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
+</div>
   
   <!-- Typing Animation -->
   <div style="background: #0d1117; padding: 15px; border-radius: 10px; border: 2px solid #00D4FF;">
