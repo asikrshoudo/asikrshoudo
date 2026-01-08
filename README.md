@@ -57,16 +57,12 @@
   <br />
 
 
-<div style="background: #0d1117; border-radius: 10px; padding: 15px; display: inline-block; border: 2px solid #00D4FF;">
-  <a href="https://discord.com/users/976820543590383678" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
-      <div>
-        <h3 style="color: #00D4FF; margin: 0;">Discord</h3>
-        <p style="color: white; margin: 5px 0 0 0;">@shoudo</p>
-      </div>
-    </div>
-  </a>
+<!-- With Skill Icons -->
+<a href="https://discord.com/users/976820543590383678" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  <br/>
+  <span style="color: #00D4FF;">shoudo</span>
+</a>
 </div>
 
   <h3> Connect with Me </h3>
