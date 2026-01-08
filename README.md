@@ -57,10 +57,17 @@
   <br />
 
 
-<h3>Discord</h3>
-<a href="https://discord.com/users/976820543590383678" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-4/976820543590383678.png" alt="Discord Status" height="150" style="border-radius: 10px;" />
-</a>
+<div style="background: #0d1117; border-radius: 10px; padding: 15px; display: inline-block; border: 2px solid #00D4FF;">
+  <a href="https://discord.com/users/976820543590383678" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
+      <div>
+        <h3 style="color: #00D4FF; margin: 0;">Discord</h3>
+        <p style="color: white; margin: 5px 0 0 0;">@shoudo</p>
+      </div>
+    </div>
+  </a>
+</div>
 
   <h3> Connect with Me </h3>
   <a href="https://www.instagram.com/_shoudo_/" target="_blank">
