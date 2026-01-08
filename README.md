@@ -57,22 +57,9 @@
   <br />
 
 
-<br />
-
-<h3 align="center">Discord Activity</h3>
+<h3>Discord</h3>
 <a href="https://discord.com/users/976820543590383678" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=0d1117&hideBadges=true&theme=dark&idleMessage=Enjoying%20life..." />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=ffffff&hideBadges=true&idleMessage=Enjoying%20life..." />
-    <img
-      alt="Discord Status"
-      src="https://lanyard.kyrie25.dev/api/976820543590383678?decoration=false&useDisplayName=true&animatioanDuration=4s&waveColor=00D4FF&waveSpotifyColor=00D4FF&borderRadius=30px&bg=0d1117&hideBadges=true&theme=dark&idleMessage=Enjoying%20life..."
-      height="150" />
-  </picture>
+  <img src="https://discord.c99.nl/widget/theme-4/976820543590383678.png" alt="Discord Status" height="150" style="border-radius: 10px;" />
 </a>
 
   <h3> Connect with Me </h3>
