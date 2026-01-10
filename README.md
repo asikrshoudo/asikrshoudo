@@ -108,4 +108,10 @@ alt="Header banner: Shoudo"
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Learning+Python+%26+C;Exploring+Linux+%26+Android;Building+small+projects;Open+to+collaboration" alt="Typing animation" style="max-width:100%; height:auto;" />
   </div>
 
+  <!-- FOOTER ANIMATION -->
+
+  <div style="margin-top:20px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&animation=fadeIn&reversal=true" alt="Footer wave" />
+  </div>
+
 </div>
