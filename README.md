@@ -58,7 +58,7 @@ alt="Header banner: Shoudo"
 <h3 style="color:#00D4FF;">Tools & Technologies</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:30px;">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,androidstudio,firebase,supabase" height="50" alt="Tools and technologies" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,androidstudio,firebase,supabase,notion" height="50" alt="Tools and technologies" />
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
