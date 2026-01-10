@@ -66,14 +66,35 @@
 
   <!-- CONNECT -->
   <h2>Connect with me</h2>
+  
+  <!-- Discord Info Card -->
+  <div style="background:#0d1117; padding:15px; border-radius:10px; border:2px solid #00D4FF; max-width:500px; margin:0 auto 20px auto;">
+    <h3 style="color:#00D4FF; margin-top:0;">Discord</h3>
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
+      <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" style="margin-right:5px;" />
+      <div>
+        <p style="margin:5px 0; color:#ffffff;">
+          <strong>Username:</strong> asikrshoudo
+        </p>
+        <p style="margin:5px 0; color:#ffffff;">
+          <strong>ID:</strong> 976820543590383678
+        </p>
+      </div>
+    </div>
+    <p>
+      <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener" style="color:#00D4FF; text-decoration:none; font-weight:bold;">
+        Join my Server →
+      </a>
+    </p>
+  </div>
+
+  <!-- Other Social Links -->
   <p>
     <a href="https://www.instagram.com/_shoudo_/" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
     &nbsp;
     <a href="https://x.com/im_shoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
     &nbsp;
     <a href="mailto:shoudoashikurshek@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" /></a>
-    &nbsp;
-    <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
     &nbsp;
     <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
     &nbsp;
