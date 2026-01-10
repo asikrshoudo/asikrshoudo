@@ -89,7 +89,9 @@ alt="Header banner: Shoudo"
 <h2>Connect with me</h2>
 
   <p>
-    <a href="https://x.com/im_shoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
+    <a href="https://x.com/im_shoudo" target="_blank" rel="noopener">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" style="filter: invert(1);" alt="X (Twitter)" />
+    </a>
     &nbsp;
     <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
     &nbsp;
