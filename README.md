@@ -1,7 +1,4 @@
-<!-- =========================
-     Shoudo — GitHub Profile
-     Brand color: #00D4FF
-     ========================= -->
+
 
 <div align="center">
 
