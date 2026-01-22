@@ -86,10 +86,14 @@ alt="Header banner: Shoudo"
 
 <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
-<h2>Monthly Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asikrshoudo&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
+<h2>Activity</h2>
+
+[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?animatedDecoration=true&showDisplayName=true&showBanner=animated&theme=dark&idleMessage=sleeping.......%F0%9F%92%A4%F0%9F%92%A4&imgStyle=circle&forceGradient=false)](https://discord.com/users/976820543590383678)
+
 
   <!-- CONNECT -->
 
