@@ -77,12 +77,23 @@ alt="Header banner: Shoudo"
 
 <h2>GitHub Stats</h2>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="180" alt="GitHub streak stats" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asikrshoudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asikrshoudo&theme=dark&hide_border=true&background=0d1117" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikrshoudo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" height="165" alt="Top Languages" />
+</p>
 
-  <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
+<hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
+
+<h2>Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asikrshoudo&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<h2>Monthly Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asikrshoudo&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
   <!-- CONNECT -->
 
