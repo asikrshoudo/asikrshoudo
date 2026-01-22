@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
   <!-- HEADER -->
@@ -60,17 +58,7 @@ alt="Header banner: Shoudo"
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
-  <!-- LEETCODE -->
 
-<h2>LeetCode Stats</h2>
-
-  <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF;">
-    <a href="https://leetcode.com/u/shoudo/" target="_blank" rel="noopener">
-      <img src="https://leetcard.jacoblin.cool/shoudo?theme=dark&font=Abel&ext=heatmap&border=0&radius=10&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="200" alt="LeetCode profile card" />
-    </a>
-  </div>
-
-  <!-- STATS -->
 
 <h2>GitHub Stats</h2>
 
@@ -86,9 +74,7 @@ alt="Header banner: Shoudo"
 
 <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asikrshoudo&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+
 
 <h2>Activity</h2>
 
