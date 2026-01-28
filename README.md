@@ -96,7 +96,7 @@ alt="Header banner: Shoudo"
   <!-- Typing Animation -->
 
   <div style="background:#0d1117; padding:15px; border-radius:10px; border:2px solid #00D4FF; max-width:520px; margin:20px auto;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Learning+Python+%26+C;Exploring+Linux+%26+Android;Building+small+projects;Open+to+collaboration" alt="Typing animation" style="max-width:100%; height:auto;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Learning+Python+html+css+java%26+C;Exploring+Linux+%26+Android;Building+small+projects" alt="Typing animation" style="max-width:100%; height:auto;" />
   </div>
 
   <!-- FOOTER ANIMATION -->
