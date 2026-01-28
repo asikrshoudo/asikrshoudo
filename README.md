@@ -14,7 +14,7 @@ alt="Header banner: Shoudo"
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-15+-00D4FF.svg?logo=repo&logoColor=white" alt="Projects: 15+" />
     </a>
     <a href="https://github.com/asikrshoudo?tab=followers">
-      <img src="https://custom-icon-badges.demolab.com/github/followers/asikrshoudo?color=00D4FF&label=Followers&logo=person-add&logoColor=white" alt="GitHub Followers" />
+      <img src="https://custom-icon-badges.demolab.com/github/followers/asikrshoudo?color=000000&label=Followers&logo=person-add&logoColor=black" alt="GitHub Followers" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=asikrshoudo&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <a href="https://leetcode.com/u/shoudo/">
