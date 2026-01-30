@@ -1,11 +1,21 @@
 <div align="left">
-<h1>hi i'm shoudo🌱</h1>
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F
+      " />
+    <img
+      alt="Profile Banner"
+      src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F" />
+  </picture>
 
-<p>Hi, I’m currently pursuing a Diploma in Computer Science and Technology (CST) at MAWTS Institute of Technology.
-I’m a beginner and actively learning Python along with basic web development.
-Most of the repositories here contain small projects, practice work, and things I’ve built while learning new concepts.
-This GitHub profile is basically my learning journey in public.</p>
-<p>you can ask me about python</p>
+  <div align="left">
+    <ul>
+      <li>🌱 I’m currently learning <strong>python & javascript</strong></li>
+      <li>💬 Ask me about <strong>tech</strong></li>
+      <li>📫 How to reach me: <strong>shoudo@proton.me</strong></li>
+    </ul>
 
 <div align="left">
 
@@ -73,9 +83,5 @@ This GitHub profile is basically my learning journey in public.</p>
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
 <h2>Activity</h2>
-
 [![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?animatedDecoration=true&showDisplayName=true&showBanner=animated&theme=dark&idleMessage=sleeping.......%F0%9F%92%A4%F0%9F%92%A4&imgStyle=circle&forceGradient=false)](https://discord.com/users/976820543590383678)
-
-
-
 </div>
