@@ -79,7 +79,7 @@
 
 <h2>Activity</h2>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?waveColor=4B0082&waveSpotifyColor=808080&idleMessage=Don't%20worry%20about%20me........&theme=dark&imgStyle=circle&showBanner=animated)](https://discord.com/users/976820543590383678)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?animatedDecoration=true&showDisplayName=true&waveColor=4B0082&waveSpotifyColor=808080&clanbg=808080&idleMessage=%F0%9F%98%B4&theme=dark&imgStyle=circle&showBanner=animated)](https://discord.com/users/976820543590383678)
 
 
 </div>
