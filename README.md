@@ -15,6 +15,7 @@
       <li> I’m currently learning <strong>python & javascript</strong></li>
       <li> Ask me about <strong>tech</strong></li>
       <li> How to reach me: <strong>shoudo@proton.me</strong></li>
+      <li> I like to <strong>listen music</strong> btw! <li>
     </ul>
 
 <div align="left">
@@ -38,15 +39,6 @@
       <img src="https://custom-icon-badges.demolab.com/github/followers/asikrshoudo?color=000000&label=Followers&logo=person-add&logoColor=black" alt="GitHub Followers" />
     </a>
   </p>
-  
-  
-  <!-- CONTRIBUTION SNAKE -->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
-  </picture>
 
   <!-- TECH STACK - DIVIDED -->
   <div align="center">
@@ -70,6 +62,15 @@
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
+  
+  
+  <!-- CONTRIBUTION SNAKE -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
+  </picture>
 
 
 
