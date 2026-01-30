@@ -84,6 +84,6 @@
 
 <h2>Activity</h2>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?animatedDecoration=true&showDisplayName=true&showBanner=animated&theme=dark&idleMessage=sleeping.......%F0%9F%92%A4%F0%9F%92%A4&imgStyle=circle&forceGradient=false)](https://discord.com/users/976820543590383678)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?showDisplayName=true&animatedDecoration=true&waveSpotifyColor=808080&idleMessage=Maybe%20sleeping%20&theme=dark&imgStyle=circle&showBanner=animated)](https://discord.com/users/976820543590383678)
 
 </div>
