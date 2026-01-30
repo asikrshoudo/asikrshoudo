@@ -79,7 +79,8 @@
 
 <h2>Activity</h2>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?waveSpotifyColor=808080&waveColor=4B0082&bg=000000&idleMessage=I'm%20doing%20nothing%20%F0%9F%90%A7&theme=dark&imgStyle=circle&showBanner=animated&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/976820543590383678)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?waveColor=4B0082&waveSpotifyColor=808080&bg=000000&idleMessage=I'm%20doing%20nothing%20%F0%9F%90%A7&theme=dark&imgStyle=circle&showBanner=animated&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/976820543590383678)
 
 
 </div>
+
