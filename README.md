@@ -13,9 +13,10 @@
   <div align="left">
     <ul>
       <li> I’m currently learning <strong>python & javascript</strong></li>
-      <li> I like to listen <strong>music</strong></li>
+      <li> Ask me about <strong>tech</strong></li>
       <li> How to reach me: <strong>shoudo@proton.me</strong></li>
-    </ul>
+      <li> I like to <strong>listen music</strong> btw! <li>
+     </ul>
 
 <div align="left">
 
@@ -46,13 +47,13 @@
 <h3 style="color:#00D4FF;">Languages</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
-    <img src="https://skillicons.dev/icons?i=c,python,js,java,html,css" height="50" alt="Programming languages" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,html,css" height="50" alt="Programming languages" />
   </div>
 
 <h3 style="color:#00D4FF;">Tools</h3>
 
-  <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:30px;">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,androidstudio,firebase,supabase,bash,notion" height="50" alt="Tools" />
+  <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,firebase,supabase,bash,notion" height="50" alt="Tools" />
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
@@ -79,9 +80,6 @@
 
 <h2>Activity</h2>
 
-
-[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?waveSpotifyColor=808080&waveColor=4B0082&bg=000000&idleMessage=I'm%20doing%20nothing%20%F0%9F%90%A7&theme=dark&imgStyle=circle&showBanner=animated&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/976820543590383678)
-
-
+[![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?waveColor=4B0082&waveSpotifyColor=808080&idleMessage=Don't%20worry%20about%20me........&theme=dark&imgStyle=circle&showBanner=animated)](https://discord.com/users/976820543590383678)
 
 </div>
