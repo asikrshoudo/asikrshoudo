@@ -15,7 +15,8 @@
       <li> I’m currently learning <strong>python & javascript</strong></li>
       <li> Ask me about <strong>tech</strong></li>
       <li> How to reach me: <strong>shoudo@proton.me</strong></li>
-      <li> I like to <strong>listen music</strong> btw! <li>
+      <li> I like to <strong>listen music</strong> btw!<li>
+      
     </ul>
 
 <div align="left">
@@ -40,12 +41,9 @@
     </a>
   </p>
 
-  <!-- TECH STACK - DIVIDED -->
+  <!-- TECH STACK -->
   <div align="center">
 
-<h2>Languages & Tools</h2>
-
-  <!-- LANGUAGES -->
 
 <h3 style="color:#00D4FF;">Languages</h3>
 
@@ -53,12 +51,10 @@
     <img src="https://skillicons.dev/icons?i=c,python,js,java,html,css" height="50" alt="Programming languages" />
   </div>
 
-  <!-- TOOLS & TECHNOLOGIES -->
-
-<h3 style="color:#00D4FF;">Tools & Technologies</h3>
+<h3 style="color:#00D4FF;">Tools</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:30px;">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,androidstudio,firebase,supabase,bash,notion" height="50" alt="Tools and technologies" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,androidstudio,firebase,supabase,bash,notion" height="50" alt="Tools" />
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
