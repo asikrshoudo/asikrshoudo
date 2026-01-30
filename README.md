@@ -15,9 +15,8 @@
       <li> I’m currently learning <strong>python & javascript</strong></li>
       <li> Ask me about <strong>tech</strong></li>
       <li> How to reach me: <strong>shoudo@proton.me</strong></li>
-      <li> I like to <strong>listen music</strong> btw!<li>
-      
-    </ul>
+      <li> I like to <strong>listen music</strong> btw! <li>
+     </ul>
 
 <div align="left">
 
