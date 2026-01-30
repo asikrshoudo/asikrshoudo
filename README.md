@@ -3,18 +3,18 @@
     <source
       media="(prefers-color-scheme: light)"
       srcset="
-        https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F
+        https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hello%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F
       " />
     <img
       alt="Profile Banner"
-      src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F" />
+      src="https://capsule-render.vercel.app/api?type=waving&theme=blue&fontSize=40&height=300&descAlignY=62&animation=fadeIn&text=Hey%20,%20I%27m%20Shoudo&desc=%20I%27m%20a%20beginner%20developer%20%F0%9F%96%A5%EF%B8%8F" />
   </picture>
 
   <div align="left">
     <ul>
-      <li>🌱 I’m currently learning <strong>python & javascript</strong></li>
-      <li>💬 Ask me about <strong>tech</strong></li>
-      <li>📫 How to reach me: <strong>shoudo@proton.me</strong></li>
+      <li> I’m currently learning <strong>python & javascript</strong></li>
+      <li> Ask me about <strong>tech</strong></li>
+      <li> How to reach me: <strong>shoudo@proton.me</strong></li>
     </ul>
 
 <div align="left">
