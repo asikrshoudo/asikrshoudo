@@ -1,15 +1,7 @@
-<div align="center">
+<div align="left">
+# hi i'm shoudo
 
-  <!-- HEADER -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=180&section=header&animation=fadeIn&fontSize=70&fontAlignY=50&fontColor=ffffff&text=Shoudo&desc=CST%20Student%20•%20ex-SPSCian%20•%20foodie😋&descSize=25&descAlignY=80&stroke=00D4FF&strokeWidth=2"
-alt="Header banner: Shoudo"
-/>
-
-  <!-- PROFILE BADGES -->
-
-  <p>
+ <p>
     <a href="https://github.com/asikrshoudo?tab=repositories">
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-15+-00D4FF.svg?logo=repo&logoColor=white" alt="Projects: 15+" />
     </a>
@@ -93,16 +85,5 @@ alt="Header banner: Shoudo"
     <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
   </p>
 
-  <!-- Typing Animation -->
-
-  <div style="background:#0d1117; padding:15px; border-radius:10px; border:2px solid #00D4FF; max-width:520px; margin:20px auto;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Learning+Python+html+css+java%26+C;Exploring+Linux+%26+Android;Building+small+projects" alt="Typing animation" style="max-width:100%; height:auto;" />
-  </div>
-
-  <!-- FOOTER ANIMATION -->
-
-  <div style="margin-top:20px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&animation=fadeIn&reversal=true" alt="Footer wave" />
-  </div>
 
 </div>
