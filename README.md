@@ -83,5 +83,7 @@
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
 
 <h2>Activity</h2>
+
 [![Discord Presence](https://lanyard.kyrie25.dev/api/976820543590383678?animatedDecoration=true&showDisplayName=true&showBanner=animated&theme=dark&idleMessage=sleeping.......%F0%9F%92%A4%F0%9F%92%A4&imgStyle=circle&forceGradient=false)](https://discord.com/users/976820543590383678)
+
 </div>
