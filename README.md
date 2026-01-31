@@ -21,14 +21,23 @@
 
 <h2>find me here!</h2>
 <p>
-    <a href="https://shoudo.xyz" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=gamemaker" width="40" alt="Portfolio" /></a>
+    <a href="https://shoudo.xyz" target="_blank" rel="noopener">
+        <img src="./assets/web.jpg" width="40" height="40" alt="Portfolio" style="vertical-align: middle; display: inline-block;" />
+    </a>
     &nbsp;
-    <a href="https://x.com/im_shoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
+    <a href="https://x.com/im_shoudo" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" style="vertical-align: middle; display: inline-block;" />
+    </a>
     &nbsp;
-    <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
+    <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" style="vertical-align: middle; display: inline-block;" />
+    </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" style="vertical-align: middle; display: inline-block;" />
+    </a>
 </p>
+
 
   <p>
     <a href="https://github.com/asikrshoudo?tab=repositories">
