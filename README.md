@@ -21,15 +21,15 @@
 
 <h2>find me here!</h2>
 <p>
+    <a href="https://shoudo.xyz" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=gamemaker" width="40" alt="Portfolio" /></a>
+    &nbsp;
     <a href="https://x.com/im_shoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
     &nbsp;
     <a href="https://discord.gg/em5wR9dQ" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
     &nbsp;
     <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
-  </p>
+</p>
 
-
- 
   <p>
     <a href="https://github.com/asikrshoudo?tab=repositories">
       <img src="https://custom-icon-badges.demolab.com/badge/Projects-15+-00D4FF.svg?logo=repo&logoColor=white" alt="Projects: 15+" />
