@@ -36,7 +36,7 @@
 <h3 style="color:#00D4FF;">Languages</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css" height="50" alt="Programming languages" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css" height="50" alt="Programming languages" />
   </div>
 
 <h3 style="color:#00D4FF;">Tools</h3>
