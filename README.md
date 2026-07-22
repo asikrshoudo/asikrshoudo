@@ -1,5 +1,4 @@
 # Hey I'm Shoudo
-***CST student | Ex-spscian***
 
 <div align="left">
     <ul>
