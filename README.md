@@ -2,7 +2,7 @@
 
 <div align="left">
     <ul>
-      <li> I'm currently learning <strong>Java</strong></li>
+      <li> I'm currently learning <strong>kotlin</strong></li>
       <li> How to reach me: <strong>shoudo@proton.me</strong></li>
    </ul>
 </div>
@@ -12,7 +12,7 @@
 <h2>find me here!</h2>
 <p>
     &nbsp;
-    <a href="https://x.com/im_shoudo" target="_blank" rel="noopener">
+    <a href="https://x.com/shkshoudo" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" />
     </a>
     &nbsp;
@@ -23,6 +23,8 @@
     <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
     </a>
+    <a href="https://www.gitlab.com/asikrshoudo" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
 </p>
 
 <!-- TECH STACK -->
@@ -31,13 +33,13 @@
 <h3 style="color:#00D4FF;">Languages</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
-    <img src="https://skillicons.dev/icons?i=c,python,java" height="50" alt="Programming languages" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,kotlin" height="50" alt="Programming languages" />
   </div>
 
 <h3 style="color:#00D4FF;">Tools</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,firebase,notion" height="50" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,windows,firebase,notion,flutter" height="50" alt="Tools" />
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
