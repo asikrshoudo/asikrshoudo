@@ -3,7 +3,7 @@
 <div align="left">
     <ul>
       <li> I'm currently learning <strong>kotlin</strong></li>
-      <li> How to reach me: <strong>shoudo@proton.me</strong></li>
+      <li> How to reach me: <strong>hello@shoudo.xyz</strong></li>
    </ul>
 </div>
 
