@@ -39,7 +39,7 @@
 <h3 style="color:#00D4FF;">Tools</h3>
 
   <div style="background:#0d1117; padding:20px; border-radius:10px; border:2px solid #00D4FF; margin-bottom:20px;">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,windows,firebase,notion,flutter" height="50" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,react,windows,firebase,notion,flutter" height="50" alt="Tools" />
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
