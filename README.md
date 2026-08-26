@@ -58,9 +58,9 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=asikrshoudo&theme=tokyonight&hide_border=true" />
+    srcset="https://thekami-github-streak-stats.vercel.app/?user=asikrshoudo&theme=tokyonight&hide_border=true" />
   <img
-    src="https://streak-stats.demolab.com/?user=asikrshoudo&theme=graywhite&hide_border=true&background=e6e7ed"
+    src="https://thekami-github-streak-stats.vercel.app/?user=asikrshoudo&theme=graywhite&hide_border=true&background=e6e7ed"
     alt="GitHub Streak" />
 </picture>
 
