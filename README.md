@@ -29,23 +29,6 @@
     </a>
 </p>
 
-<h2>my website & blog</h2>
-<p>
-    &nbsp;
-    <a href="https://www.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://skillicons.dev/icons?i=googlecloud" width="40" height="40" alt="Website" />
-    </a>
-    &nbsp;
-    <a href="https://blog.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://skillicons.dev/icons?i=devto" width="40" height="40" alt="Blog" />
-    </a>
-    &nbsp;
-    <a href="https://link.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://skillicons.dev/icons?i=linktree" width="40" height="40" alt="Links" />
-    </a>
-</p>
-
-</div>
 
 <!-- TECH STACK -->
 <div align="center">
