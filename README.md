@@ -23,9 +23,28 @@
     <a href="https://www.linkedin.com/in/asikrshoudo" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://www.gitlab.com/asikrshoudo" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </a>
 </p>
+
+<h2>my website & blog</h2>
+<p>
+    <a href="https://www.shoudo.xyz" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Website-shoudo.xyz-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="https://blog.shoudo.xyz" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Blog-blog.shoudo.xyz-00D4FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+    </a>
+    &nbsp;
+    <a href="https://link.shoudo.xyz" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Links-link.shoudo.xyz-00D4FF?style=for-the-badge&logo=linktree&logoColor=white" alt="Links" />
+    </a>
+</p>
+
+</div>
 
 <!-- TECH STACK -->
 <div align="center">
@@ -43,10 +62,8 @@
   </div>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
-  
-  
-  <!-- CONTRIBUTION SNAKE -->
 
+  <!-- CONTRIBUTION SNAKE -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asikrshoudo/asikrshoudo/output/snake.svg" />
@@ -65,5 +82,5 @@
 </picture>
 
   <hr style="border:1px solid #00D4FF; width:80%; margin:30px auto;" />
-  
 
+</div>
