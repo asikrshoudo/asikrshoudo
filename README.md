@@ -31,16 +31,17 @@
 
 <h2>my website & blog</h2>
 <p>
+    &nbsp;
     <a href="https://www.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/Website-shoudo.xyz-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+        <img src="https://skillicons.dev/icons?i=googlecloud" width="40" height="40" alt="Website" />
     </a>
     &nbsp;
     <a href="https://blog.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/Blog-blog.shoudo.xyz-00D4FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+        <img src="https://skillicons.dev/icons?i=devto" width="40" height="40" alt="Blog" />
     </a>
     &nbsp;
     <a href="https://link.shoudo.xyz" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/Links-link.shoudo.xyz-00D4FF?style=for-the-badge&logo=linktree&logoColor=white" alt="Links" />
+        <img src="https://skillicons.dev/icons?i=linktree" width="40" height="40" alt="Links" />
     </a>
 </p>
 
